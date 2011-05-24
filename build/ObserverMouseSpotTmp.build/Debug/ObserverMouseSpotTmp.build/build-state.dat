@@ -1,0 +1,348 @@
+TObserverMouseSpotTmp
+v7
+r0
+t327929587.580817
+cCheck dependencies
+cProcessInfoPlistFile /Users/kikugawamariko/XCodeProjects/ObserverMouseSpot/build/Debug/ObserverMouseSpotTmp.app/Contents/Info.plist ObserverMouseSpotTmp-Info.plist
+cCopyStringsFile /Users/kikugawamariko/XCodeProjects/ObserverMouseSpot/build/Debug/ObserverMouseSpotTmp.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCompileXIB /Users/kikugawamariko/XCodeProjects/ObserverMouseSpot/English.lproj/MainMenu.xib
+cProcessPCH /var/folders/4P/4Plrz3LXHW032A33CCBvCE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ObserverMouseSpotTmp_Prefix-esgngeoqghkmfzazxwjhopyqcueq/ObserverMouseSpotTmp_Prefix.pch.gch ObserverMouseSpotTmp_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ObserverMouseSpotTmp.build/Debug/ObserverMouseSpotTmp.build/Objects-normal/x86_64/main.o /Users/kikugawamariko/XCodeProjects/ObserverMouseSpot/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ObserverMouseSpotTmp.build/Debug/ObserverMouseSpotTmp.build/Objects-normal/x86_64/ObserverMouseSpotTmpAppDelegate.o /Users/kikugawamariko/XCodeProjects/ObserverMouseSpot/ObserverMouseSpotTmpAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/kikugawamariko/XCodeProjects/ObserverMouseSpot/build/Debug/ObserverMouseSpotTmp.app/Contents/MacOS/ObserverMouseSpotTmp normal x86_64
+cTouch /Users/kikugawamariko/XCodeProjects/ObserverMouseSpot/build/Debug/ObserverMouseSpotTmp.app
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004DB7BB0E00000000000000EE
+t1303886606
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.h
+c000000004CC410E50000000000000477
+t1287917797
+s1143
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/kikugawamariko/XCodeProjects/ObserverMouseSpot/English.lproj/InfoPlist.strings
+c000000004DDA61C5000000000000002D
+t1306157509
+s45
+
+N/Users/kikugawamariko/XCodeProjects/ObserverMouseSpot/English.lproj/MainMenu.xib
+c000000004DDA61C5000000000002BBFA
+t1306157509
+s179194
+
+N/Users/kikugawamariko/XCodeProjects/ObserverMouseSpot/ObserverMouseSpotTmpAppDelegate.h
+c000000004DDA61C5000000000000017D
+t1306157509
+s381
+i<Cocoa/Cocoa.h>
+
+N/Users/kikugawamariko/XCodeProjects/ObserverMouseSpot/ObserverMouseSpotTmpAppDelegate.m
+c000000004DDA61C500000000000001BF
+t1306157509
+s447
+i"ObserverMouseSpotTmpAppDelegate.h"
+
+N/Users/kikugawamariko/XCodeProjects/ObserverMouseSpot/ObserverMouseSpotTmp_Prefix.pch
+c000000004DDA61C500000000000000AB
+t1306157509
+s171
+i<Cocoa/Cocoa.h>
+
+N/Users/kikugawamariko/XCodeProjects/ObserverMouseSpot/build/Debug/ObserverMouseSpotTmp.app
+t1306157639
+s102
+
+N/Users/kikugawamariko/XCodeProjects/ObserverMouseSpot/build/Debug/ObserverMouseSpotTmp.app/Contents/Info.plist
+t1306157526
+s1323
+
+N/Users/kikugawamariko/XCodeProjects/ObserverMouseSpot/build/Debug/ObserverMouseSpotTmp.app/Contents/MacOS/ObserverMouseSpotTmp
+t1306157639
+s15920
+
+N/Users/kikugawamariko/XCodeProjects/ObserverMouseSpot/build/Debug/ObserverMouseSpotTmp.app/Contents/PkgInfo
+t1306157526
+s8
+
+N/Users/kikugawamariko/XCodeProjects/ObserverMouseSpot/build/Debug/ObserverMouseSpotTmp.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1306157526
+s92
+
+N/Users/kikugawamariko/XCodeProjects/ObserverMouseSpot/build/Debug/ObserverMouseSpotTmp.app/Contents/Resources/English.lproj/MainMenu.nib
+t1306157526
+s34578
+
+N/Users/kikugawamariko/XCodeProjects/ObserverMouseSpot/build/ObserverMouseSpotTmp.build/Debug/ObserverMouseSpotTmp.build/Objects-normal/x86_64/ObserverMouseSpotTmp.LinkFileList
+c000000004DDA62440000000000000145
+t1306157636
+s325
+
+N/Users/kikugawamariko/XCodeProjects/ObserverMouseSpot/build/ObserverMouseSpotTmp.build/Debug/ObserverMouseSpotTmp.build/Objects-normal/x86_64/ObserverMouseSpotTmpAppDelegate.o
+t1306157639
+s21464
+
+N/Users/kikugawamariko/XCodeProjects/ObserverMouseSpot/build/ObserverMouseSpotTmp.build/Debug/ObserverMouseSpotTmp.build/Objects-normal/x86_64/main.o
+t1306157639
+s11284
+
+N/Users/kikugawamariko/XCodeProjects/ObserverMouseSpot/main.m
+c000000004DDA62280000000000000A69
+t1306157608
+s2665
+i<Cocoa/Cocoa.h>
+i<ApplicationServices/ApplicationServices.h>
+
+N/Users/kikugawamariko/XCodeProjects/ObserverMouseSpotTmp/English.lproj/InfoPlist.strings
+c000000004DDA61C5000000000000002D
+t1306157509
+s45
+
+N/Users/kikugawamariko/XCodeProjects/ObserverMouseSpotTmp/English.lproj/MainMenu.xib
+c000000004DDA61C5000000000002BBFA
+t1306157509
+s179194
+
+N/Users/kikugawamariko/XCodeProjects/ObserverMouseSpotTmp/ObserverMouseSpotTmpAppDelegate.h
+c000000004DDA61C5000000000000017D
+t1306157509
+s381
+i<Cocoa/Cocoa.h>
+
+N/Users/kikugawamariko/XCodeProjects/ObserverMouseSpotTmp/ObserverMouseSpotTmpAppDelegate.m
+c000000004DDA61C500000000000001BF
+t1306157509
+s447
+i"ObserverMouseSpotTmpAppDelegate.h"
+
+N/Users/kikugawamariko/XCodeProjects/ObserverMouseSpotTmp/ObserverMouseSpotTmp_Prefix.pch
+c000000004DDA61C500000000000000AB
+t1306157509
+s171
+i<Cocoa/Cocoa.h>
+
+N/Users/kikugawamariko/XCodeProjects/ObserverMouseSpotTmp/build/Debug/ObserverMouseSpotTmp.app
+t1306157530
+s102
+
+N/Users/kikugawamariko/XCodeProjects/ObserverMouseSpotTmp/build/Debug/ObserverMouseSpotTmp.app/Contents/Info.plist
+t1306157526
+s1323
+
+N/Users/kikugawamariko/XCodeProjects/ObserverMouseSpotTmp/build/Debug/ObserverMouseSpotTmp.app/Contents/MacOS/ObserverMouseSpotTmp
+t1306157530
+s15928
+
+N/Users/kikugawamariko/XCodeProjects/ObserverMouseSpotTmp/build/Debug/ObserverMouseSpotTmp.app/Contents/PkgInfo
+t1306157526
+s8
+
+N/Users/kikugawamariko/XCodeProjects/ObserverMouseSpotTmp/build/Debug/ObserverMouseSpotTmp.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1306157526
+s92
+
+N/Users/kikugawamariko/XCodeProjects/ObserverMouseSpotTmp/build/Debug/ObserverMouseSpotTmp.app/Contents/Resources/English.lproj/MainMenu.nib
+t1306157526
+s34578
+
+N/Users/kikugawamariko/XCodeProjects/ObserverMouseSpotTmp/build/ObserverMouseSpotTmp.build/Debug/ObserverMouseSpotTmp.build/Objects-normal/x86_64/ObserverMouseSpotTmp.LinkFileList
+c000000004DDA61D6000000000000014B
+t1306157526
+s331
+
+N/Users/kikugawamariko/XCodeProjects/ObserverMouseSpotTmp/build/ObserverMouseSpotTmp.build/Debug/ObserverMouseSpotTmp.build/Objects-normal/x86_64/ObserverMouseSpotTmpAppDelegate.o
+t1306157530
+s21472
+
+N/Users/kikugawamariko/XCodeProjects/ObserverMouseSpotTmp/build/ObserverMouseSpotTmp.build/Debug/ObserverMouseSpotTmp.build/Objects-normal/x86_64/main.o
+t1306157530
+s11292
+
+N/Users/kikugawamariko/XCodeProjects/ObserverMouseSpotTmp/main.m
+c000000004DDA61D50000000000000A69
+t1306157525
+s2665
+i<Cocoa/Cocoa.h>
+i<ApplicationServices/ApplicationServices.h>
+
+N/var/folders/4P/4Plrz3LXHW032A33CCBvCE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ObserverMouseSpotTmp_Prefix-apfqbicjmoecuxavdluwbiphgoti/ObserverMouseSpotTmp_Prefix.pch.gch
+t1306157529
+s54306576
+
+N/var/folders/4P/4Plrz3LXHW032A33CCBvCE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ObserverMouseSpotTmp_Prefix-esgngeoqghkmfzazxwjhopyqcueq/ObserverMouseSpotTmp_Prefix.pch.gch
+t1306157639
+s54306576
+
+NObserverMouseSpotTmp-Info.plist
+c000000004DDA61C500000000000003EA
+t1306157509
+s1002
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies327929587#327929587#0(0"0(0#1#0"2513076880#0"0#
+
+CCompileC build/ObserverMouseSpotTmp.build/Debug/ObserverMouseSpotTmp.build/Objects-normal/x86_64/ObserverMouseSpotTmpAppDelegate.o /Users/kikugawamariko/XCodeProjects/ObserverMouseSpot/ObserverMouseSpotTmpAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s327850439.701483
+e327850439.882028
+r1
+xCompileC
+xbuild/ObserverMouseSpotTmp.build/Debug/ObserverMouseSpotTmp.build/Objects-normal/x86_64/ObserverMouseSpotTmpAppDelegate.o
+x/Users/kikugawamariko/XCodeProjects/ObserverMouseSpot/ObserverMouseSpotTmpAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@95"Compile /Users/kikugawamariko/XCodeProjects/ObserverMouseSpot/ObserverMouseSpotTmpAppDelegate.m327850439#327850439#0(0"0(0#0#87"/Users/kikugawamariko/XCodeProjects/ObserverMouseSpot/ObserverMouseSpotTmpAppDelegate.m2513076880#1929"    cd /Users/kikugawamariko/XCodeProjects/ObserverMouseSpot    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/kikugawamariko/XCodeProjects/ObserverMouseSpot/build/ObserverMouseSpotTmp.build/Debug/ObserverMouseSpotTmp.build/ObserverMouseSpotTmp-generated-files.hmap -I/Users/kikugawamariko/XCodeProjects/ObserverMouseSpot/build/ObserverMouseSpotTmp.build/Debug/ObserverMouseSpotTmp.build/ObserverMouseSpotTmp-own-target-headers.hmap -I/Users/kikugawamariko/XCodeProjects/ObserverMouseSpot/build/ObserverMouseSpotTmp.build/Debug/ObserverMouseSpotTmp.build/ObserverMouseSpotTmp-all-target-headers.hmap -iquote /Users/kikugawamariko/XCodeProjects/ObserverMouseSpot/build/ObserverMouseSpotTmp.build/Debug/ObserverMouseSpotTmp.build/ObserverMouseSpotTmp-project-headers.hmap -F/Users/kikugawamariko/XCodeProjects/ObserverMouseSpot/build/Debug -I/Users/kikugawamariko/XCodeProjects/ObserverMouseSpot/build/Debug/include -I/Users/kikugawamariko/XCodeProjects/ObserverMouseSpot/build/ObserverMouseSpotTmp.build/Debug/ObserverMouseSpotTmp.build/DerivedSources/x86_64 -I/Users/kikugawamariko/XCodeProjects/ObserverMouseSpot/build/ObserverMouseSpotTmp.build/Debug/ObserverMouseSpotTmp.build/DerivedSources -include /var/folders/4P/4Plrz3LXHW032A33CCBvCE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ObserverMouseSpotTmp_Prefix-esgngeoqghkmfzazxwjhopyqcueq/ObserverMouseSpotTmp_Prefix.pch -c /Users/kikugawamariko/XCodeProjects/ObserverMouseSpot/ObserverMouseSpotTmpAppDelegate.m -o /Users/kikugawamariko/XCodeProjects/ObserverMouseSpot/build/ObserverMouseSpotTmp.build/Debug/ObserverMouseSpotTmp.build/Objects-normal/x86_64/ObserverMouseSpotTmpAppDelegate.o0#
+
+CCompileC build/ObserverMouseSpotTmp.build/Debug/ObserverMouseSpotTmp.build/Objects-normal/x86_64/ObserverMouseSpotTmpAppDelegate.o /Users/kikugawamariko/XCodeProjects/ObserverMouseSpotTmp/ObserverMouseSpotTmpAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s327850329.892783
+e327850330.098634
+r1
+xCompileC
+xbuild/ObserverMouseSpotTmp.build/Debug/ObserverMouseSpotTmp.build/Objects-normal/x86_64/ObserverMouseSpotTmpAppDelegate.o
+x/Users/kikugawamariko/XCodeProjects/ObserverMouseSpotTmp/ObserverMouseSpotTmpAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@98"Compile /Users/kikugawamariko/XCodeProjects/ObserverMouseSpotTmp/ObserverMouseSpotTmpAppDelegate.m327850329#327850330#0(0"0(0#0#90"/Users/kikugawamariko/XCodeProjects/ObserverMouseSpotTmp/ObserverMouseSpotTmpAppDelegate.m2513076880#1962"    cd /Users/kikugawamariko/XCodeProjects/ObserverMouseSpotTmp    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/kikugawamariko/XCodeProjects/ObserverMouseSpotTmp/build/ObserverMouseSpotTmp.build/Debug/ObserverMouseSpotTmp.build/ObserverMouseSpotTmp-generated-files.hmap -I/Users/kikugawamariko/XCodeProjects/ObserverMouseSpotTmp/build/ObserverMouseSpotTmp.build/Debug/ObserverMouseSpotTmp.build/ObserverMouseSpotTmp-own-target-headers.hmap -I/Users/kikugawamariko/XCodeProjects/ObserverMouseSpotTmp/build/ObserverMouseSpotTmp.build/Debug/ObserverMouseSpotTmp.build/ObserverMouseSpotTmp-all-target-headers.hmap -iquote /Users/kikugawamariko/XCodeProjects/ObserverMouseSpotTmp/build/ObserverMouseSpotTmp.build/Debug/ObserverMouseSpotTmp.build/ObserverMouseSpotTmp-project-headers.hmap -F/Users/kikugawamariko/XCodeProjects/ObserverMouseSpotTmp/build/Debug -I/Users/kikugawamariko/XCodeProjects/ObserverMouseSpotTmp/build/Debug/include -I/Users/kikugawamariko/XCodeProjects/ObserverMouseSpotTmp/build/ObserverMouseSpotTmp.build/Debug/ObserverMouseSpotTmp.build/DerivedSources/x86_64 -I/Users/kikugawamariko/XCodeProjects/ObserverMouseSpotTmp/build/ObserverMouseSpotTmp.build/Debug/ObserverMouseSpotTmp.build/DerivedSources -include /var/folders/4P/4Plrz3LXHW032A33CCBvCE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ObserverMouseSpotTmp_Prefix-apfqbicjmoecuxavdluwbiphgoti/ObserverMouseSpotTmp_Prefix.pch -c /Users/kikugawamariko/XCodeProjects/ObserverMouseSpotTmp/ObserverMouseSpotTmpAppDelegate.m -o /Users/kikugawamariko/XCodeProjects/ObserverMouseSpotTmp/build/ObserverMouseSpotTmp.build/Debug/ObserverMouseSpotTmp.build/Objects-normal/x86_64/ObserverMouseSpotTmpAppDelegate.o0#
+
+CCompileC build/ObserverMouseSpotTmp.build/Debug/ObserverMouseSpotTmp.build/Objects-normal/x86_64/main.o /Users/kikugawamariko/XCodeProjects/ObserverMouseSpot/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s327850439.700446
+e327850439.864041
+r1
+xCompileC
+xbuild/ObserverMouseSpotTmp.build/Debug/ObserverMouseSpotTmp.build/Objects-normal/x86_64/main.o
+x/Users/kikugawamariko/XCodeProjects/ObserverMouseSpot/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/kikugawamariko/XCodeProjects/ObserverMouseSpot/main.m: In function 'CGMouseEventCallback':
+o/Users/kikugawamariko/XCodeProjects/ObserverMouseSpot/main.m:15: warning: unused variable 'runningApp'
+lSLF07#2@68"Compile /Users/kikugawamariko/XCodeProjects/ObserverMouseSpot/main.m327850439#327850439#0(201"/Users/kikugawamariko/XCodeProjects/ObserverMouseSpot/main.m: In function 'CGMouseEventCallback':/Users/kikugawamariko/XCodeProjects/ObserverMouseSpot/main.m:15: warning: unused variable 'runningApp'1(22@28"Unused variable 'runningApp'327850439#98#103#0(6@60"/Users/kikugawamariko/XCodeProjects/ObserverMouseSpot/main.m327850408#15#0#15#0#19"unused variable '*'0(0#0#60"/Users/kikugawamariko/XCodeProjects/ObserverMouseSpot/main.m2513076880#1875"    cd /Users/kikugawamariko/XCodeProjects/ObserverMouseSpot    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/kikugawamariko/XCodeProjects/ObserverMouseSpot/build/ObserverMouseSpotTmp.build/Debug/ObserverMouseSpotTmp.build/ObserverMouseSpotTmp-generated-files.hmap -I/Users/kikugawamariko/XCodeProjects/ObserverMouseSpot/build/ObserverMouseSpotTmp.build/Debug/ObserverMouseSpotTmp.build/ObserverMouseSpotTmp-own-target-headers.hmap -I/Users/kikugawamariko/XCodeProjects/ObserverMouseSpot/build/ObserverMouseSpotTmp.build/Debug/ObserverMouseSpotTmp.build/ObserverMouseSpotTmp-all-target-headers.hmap -iquote /Users/kikugawamariko/XCodeProjects/ObserverMouseSpot/build/ObserverMouseSpotTmp.build/Debug/ObserverMouseSpotTmp.build/ObserverMouseSpotTmp-project-headers.hmap -F/Users/kikugawamariko/XCodeProjects/ObserverMouseSpot/build/Debug -I/Users/kikugawamariko/XCodeProjects/ObserverMouseSpot/build/Debug/include -I/Users/kikugawamariko/XCodeProjects/ObserverMouseSpot/build/ObserverMouseSpotTmp.build/Debug/ObserverMouseSpotTmp.build/DerivedSources/x86_64 -I/Users/kikugawamariko/XCodeProjects/ObserverMouseSpot/build/ObserverMouseSpotTmp.build/Debug/ObserverMouseSpotTmp.build/DerivedSources -include /var/folders/4P/4Plrz3LXHW032A33CCBvCE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ObserverMouseSpotTmp_Prefix-esgngeoqghkmfzazxwjhopyqcueq/ObserverMouseSpotTmp_Prefix.pch -c /Users/kikugawamariko/XCodeProjects/ObserverMouseSpot/main.m -o /Users/kikugawamariko/XCodeProjects/ObserverMouseSpot/build/ObserverMouseSpotTmp.build/Debug/ObserverMouseSpotTmp.build/Objects-normal/x86_64/main.o0#
+
+CCompileC build/ObserverMouseSpotTmp.build/Debug/ObserverMouseSpotTmp.build/Objects-normal/x86_64/main.o /Users/kikugawamariko/XCodeProjects/ObserverMouseSpotTmp/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s327850329.891719
+e327850330.065501
+r1
+xCompileC
+xbuild/ObserverMouseSpotTmp.build/Debug/ObserverMouseSpotTmp.build/Objects-normal/x86_64/main.o
+x/Users/kikugawamariko/XCodeProjects/ObserverMouseSpotTmp/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/kikugawamariko/XCodeProjects/ObserverMouseSpotTmp/main.m: In function 'CGMouseEventCallback':
+o/Users/kikugawamariko/XCodeProjects/ObserverMouseSpotTmp/main.m:15: warning: unused variable 'runningApp'
+lSLF07#2@71"Compile /Users/kikugawamariko/XCodeProjects/ObserverMouseSpotTmp/main.m327850329#327850330#0(207"/Users/kikugawamariko/XCodeProjects/ObserverMouseSpotTmp/main.m: In function 'CGMouseEventCallback':/Users/kikugawamariko/XCodeProjects/ObserverMouseSpotTmp/main.m:15: warning: unused variable 'runningApp'1(22@28"Unused variable 'runningApp'327850329#101#106#0(6@63"/Users/kikugawamariko/XCodeProjects/ObserverMouseSpotTmp/main.m327850325#15#0#15#0#19"unused variable '*'0(0#0#63"/Users/kikugawamariko/XCodeProjects/ObserverMouseSpotTmp/main.m2513076880#1908"    cd /Users/kikugawamariko/XCodeProjects/ObserverMouseSpotTmp    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/kikugawamariko/XCodeProjects/ObserverMouseSpotTmp/build/ObserverMouseSpotTmp.build/Debug/ObserverMouseSpotTmp.build/ObserverMouseSpotTmp-generated-files.hmap -I/Users/kikugawamariko/XCodeProjects/ObserverMouseSpotTmp/build/ObserverMouseSpotTmp.build/Debug/ObserverMouseSpotTmp.build/ObserverMouseSpotTmp-own-target-headers.hmap -I/Users/kikugawamariko/XCodeProjects/ObserverMouseSpotTmp/build/ObserverMouseSpotTmp.build/Debug/ObserverMouseSpotTmp.build/ObserverMouseSpotTmp-all-target-headers.hmap -iquote /Users/kikugawamariko/XCodeProjects/ObserverMouseSpotTmp/build/ObserverMouseSpotTmp.build/Debug/ObserverMouseSpotTmp.build/ObserverMouseSpotTmp-project-headers.hmap -F/Users/kikugawamariko/XCodeProjects/ObserverMouseSpotTmp/build/Debug -I/Users/kikugawamariko/XCodeProjects/ObserverMouseSpotTmp/build/Debug/include -I/Users/kikugawamariko/XCodeProjects/ObserverMouseSpotTmp/build/ObserverMouseSpotTmp.build/Debug/ObserverMouseSpotTmp.build/DerivedSources/x86_64 -I/Users/kikugawamariko/XCodeProjects/ObserverMouseSpotTmp/build/ObserverMouseSpotTmp.build/Debug/ObserverMouseSpotTmp.build/DerivedSources -include /var/folders/4P/4Plrz3LXHW032A33CCBvCE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ObserverMouseSpotTmp_Prefix-apfqbicjmoecuxavdluwbiphgoti/ObserverMouseSpotTmp_Prefix.pch -c /Users/kikugawamariko/XCodeProjects/ObserverMouseSpotTmp/main.m -o /Users/kikugawamariko/XCodeProjects/ObserverMouseSpotTmp/build/ObserverMouseSpotTmp.build/Debug/ObserverMouseSpotTmp.build/Objects-normal/x86_64/main.o0#
+
+CCompileXIB /Users/kikugawamariko/XCodeProjects/ObserverMouseSpot/English.lproj/MainMenu.xib
+r0
+
+CCompileXIB /Users/kikugawamariko/XCodeProjects/ObserverMouseSpotTmp/English.lproj/MainMenu.xib
+s327850326.257301
+e327850326.560902
+r1
+xCompileXIB
+x/Users/kikugawamariko/XCodeProjects/ObserverMouseSpotTmp/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib327850326#327850326#0(0"0(0#0#83"/Users/kikugawamariko/XCodeProjects/ObserverMouseSpotTmp/English.lproj/MainMenu.xib2513076880#431"    cd /Users/kikugawamariko/XCodeProjects/ObserverMouseSpotTmp    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/kikugawamariko/XCodeProjects/ObserverMouseSpotTmp/build/Debug/ObserverMouseSpotTmp.app/Contents/Resources/English.lproj/MainMenu.nib /Users/kikugawamariko/XCodeProjects/ObserverMouseSpotTmp/English.lproj/MainMenu.xib --sdk /Developer/SDKs/MacOSX10.6.sdk0#
+
+CCopyStringsFile /Users/kikugawamariko/XCodeProjects/ObserverMouseSpot/build/Debug/ObserverMouseSpotTmp.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+r0
+
+CCopyStringsFile /Users/kikugawamariko/XCodeProjects/ObserverMouseSpotTmp/build/Debug/ObserverMouseSpotTmp.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s327850326.256389
+e327850326.499216
+r1
+xCopyStringsFile
+x/Users/kikugawamariko/XCodeProjects/ObserverMouseSpotTmp/build/Debug/ObserverMouseSpotTmp.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings327850326#327850326#0(0"0(0#0#88"/Users/kikugawamariko/XCodeProjects/ObserverMouseSpotTmp/English.lproj/InfoPlist.strings2513076880#414"    cd /Users/kikugawamariko/XCodeProjects/ObserverMouseSpotTmp    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/kikugawamariko/XCodeProjects/ObserverMouseSpotTmp/build/Debug/ObserverMouseSpotTmp.app/Contents/Resources/English.lproj0#
+
+CLd /Users/kikugawamariko/XCodeProjects/ObserverMouseSpot/build/Debug/ObserverMouseSpotTmp.app/Contents/MacOS/ObserverMouseSpotTmp normal x86_64
+s327850439.882118
+e327850439.917918
+r1
+xLd
+x/Users/kikugawamariko/XCodeProjects/ObserverMouseSpot/build/Debug/ObserverMouseSpotTmp.app/Contents/MacOS/ObserverMouseSpotTmp
+xnormal
+xx86_64
+lSLF07#2@131"Link /Users/kikugawamariko/XCodeProjects/ObserverMouseSpot/build/Debug/ObserverMouseSpotTmp.app/Contents/MacOS/ObserverMouseSpotTmp327850439#327850439#0(0"0(0#0#0"2513076880#682"    cd /Users/kikugawamariko/XCodeProjects/ObserverMouseSpot    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/kikugawamariko/XCodeProjects/ObserverMouseSpot/build/Debug -F/Users/kikugawamariko/XCodeProjects/ObserverMouseSpot/build/Debug -filelist /Users/kikugawamariko/XCodeProjects/ObserverMouseSpot/build/ObserverMouseSpotTmp.build/Debug/ObserverMouseSpotTmp.build/Objects-normal/x86_64/ObserverMouseSpotTmp.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -o /Users/kikugawamariko/XCodeProjects/ObserverMouseSpot/build/Debug/ObserverMouseSpotTmp.app/Contents/MacOS/ObserverMouseSpotTmp0#
+
+CLd /Users/kikugawamariko/XCodeProjects/ObserverMouseSpotTmp/build/Debug/ObserverMouseSpotTmp.app/Contents/MacOS/ObserverMouseSpotTmp normal x86_64
+s327850330.098773
+e327850330.571286
+r1
+xLd
+x/Users/kikugawamariko/XCodeProjects/ObserverMouseSpotTmp/build/Debug/ObserverMouseSpotTmp.app/Contents/MacOS/ObserverMouseSpotTmp
+xnormal
+xx86_64
+lSLF07#2@134"Link /Users/kikugawamariko/XCodeProjects/ObserverMouseSpotTmp/build/Debug/ObserverMouseSpotTmp.app/Contents/MacOS/ObserverMouseSpotTmp327850330#327850330#0(0"0(0#0#0"2513076880#697"    cd /Users/kikugawamariko/XCodeProjects/ObserverMouseSpotTmp    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/kikugawamariko/XCodeProjects/ObserverMouseSpotTmp/build/Debug -F/Users/kikugawamariko/XCodeProjects/ObserverMouseSpotTmp/build/Debug -filelist /Users/kikugawamariko/XCodeProjects/ObserverMouseSpotTmp/build/ObserverMouseSpotTmp.build/Debug/ObserverMouseSpotTmp.build/Objects-normal/x86_64/ObserverMouseSpotTmp.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -o /Users/kikugawamariko/XCodeProjects/ObserverMouseSpotTmp/build/Debug/ObserverMouseSpotTmp.app/Contents/MacOS/ObserverMouseSpotTmp0#
+
+CProcessInfoPlistFile /Users/kikugawamariko/XCodeProjects/ObserverMouseSpot/build/Debug/ObserverMouseSpotTmp.app/Contents/Info.plist ObserverMouseSpotTmp-Info.plist
+r0
+
+CProcessInfoPlistFile /Users/kikugawamariko/XCodeProjects/ObserverMouseSpotTmp/build/Debug/ObserverMouseSpotTmp.app/Contents/Info.plist ObserverMouseSpotTmp-Info.plist
+s327850326.239969
+e327850326.256258
+r1
+xProcessInfoPlistFile
+x/Users/kikugawamariko/XCodeProjects/ObserverMouseSpotTmp/build/Debug/ObserverMouseSpotTmp.app/Contents/Info.plist
+xObserverMouseSpotTmp-Info.plist
+lSLF07#2@39"Process ObserverMouseSpotTmp-Info.plist327850326#327850326#0(0"0(0#0#88"/Users/kikugawamariko/XCodeProjects/ObserverMouseSpotTmp/ObserverMouseSpotTmp-Info.plist2513076880#403"    cd /Users/kikugawamariko/XCodeProjects/ObserverMouseSpotTmp    builtin-infoPlistUtility ObserverMouseSpotTmp-Info.plist -genpkginfo /Users/kikugawamariko/XCodeProjects/ObserverMouseSpotTmp/build/Debug/ObserverMouseSpotTmp.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/kikugawamariko/XCodeProjects/ObserverMouseSpotTmp/build/Debug/ObserverMouseSpotTmp.app/Contents/Info.plist0#
+
+CProcessPCH /var/folders/4P/4Plrz3LXHW032A33CCBvCE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ObserverMouseSpotTmp_Prefix-apfqbicjmoecuxavdluwbiphgoti/ObserverMouseSpotTmp_Prefix.pch.gch ObserverMouseSpotTmp_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s327850326.561021
+e327850329.891566
+r1
+xProcessPCH
+x/var/folders/4P/4Plrz3LXHW032A33CCBvCE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ObserverMouseSpotTmp_Prefix-apfqbicjmoecuxavdluwbiphgoti/ObserverMouseSpotTmp_Prefix.pch.gch
+xObserverMouseSpotTmp_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@42"Precompile ObserverMouseSpotTmp_Prefix.pch327850326#327850329#0(0"0(0#0#88"/Users/kikugawamariko/XCodeProjects/ObserverMouseSpotTmp/ObserverMouseSpotTmp_Prefix.pch2513076880#1783"    cd /Users/kikugawamariko/XCodeProjects/ObserverMouseSpotTmp    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/kikugawamariko/XCodeProjects/ObserverMouseSpotTmp/build/ObserverMouseSpotTmp.build/Debug/ObserverMouseSpotTmp.build/ObserverMouseSpotTmp-generated-files.hmap -I/Users/kikugawamariko/XCodeProjects/ObserverMouseSpotTmp/build/ObserverMouseSpotTmp.build/Debug/ObserverMouseSpotTmp.build/ObserverMouseSpotTmp-own-target-headers.hmap -I/Users/kikugawamariko/XCodeProjects/ObserverMouseSpotTmp/build/ObserverMouseSpotTmp.build/Debug/ObserverMouseSpotTmp.build/ObserverMouseSpotTmp-all-target-headers.hmap -iquote /Users/kikugawamariko/XCodeProjects/ObserverMouseSpotTmp/build/ObserverMouseSpotTmp.build/Debug/ObserverMouseSpotTmp.build/ObserverMouseSpotTmp-project-headers.hmap -F/Users/kikugawamariko/XCodeProjects/ObserverMouseSpotTmp/build/Debug -I/Users/kikugawamariko/XCodeProjects/ObserverMouseSpotTmp/build/Debug/include -I/Users/kikugawamariko/XCodeProjects/ObserverMouseSpotTmp/build/ObserverMouseSpotTmp.build/Debug/ObserverMouseSpotTmp.build/DerivedSources/x86_64 -I/Users/kikugawamariko/XCodeProjects/ObserverMouseSpotTmp/build/ObserverMouseSpotTmp.build/Debug/ObserverMouseSpotTmp.build/DerivedSources -c /Users/kikugawamariko/XCodeProjects/ObserverMouseSpotTmp/ObserverMouseSpotTmp_Prefix.pch -o /var/folders/4P/4Plrz3LXHW032A33CCBvCE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ObserverMouseSpotTmp_Prefix-apfqbicjmoecuxavdluwbiphgoti/ObserverMouseSpotTmp_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/4P/4Plrz3LXHW032A33CCBvCE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ObserverMouseSpotTmp_Prefix-esgngeoqghkmfzazxwjhopyqcueq/ObserverMouseSpotTmp_Prefix.pch.gch ObserverMouseSpotTmp_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s327850436.886569
+e327850439.700301
+r1
+xProcessPCH
+x/var/folders/4P/4Plrz3LXHW032A33CCBvCE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ObserverMouseSpotTmp_Prefix-esgngeoqghkmfzazxwjhopyqcueq/ObserverMouseSpotTmp_Prefix.pch.gch
+xObserverMouseSpotTmp_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@42"Precompile ObserverMouseSpotTmp_Prefix.pch327850436#327850439#0(0"0(0#0#85"/Users/kikugawamariko/XCodeProjects/ObserverMouseSpot/ObserverMouseSpotTmp_Prefix.pch2513076880#1753"    cd /Users/kikugawamariko/XCodeProjects/ObserverMouseSpot    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/kikugawamariko/XCodeProjects/ObserverMouseSpot/build/ObserverMouseSpotTmp.build/Debug/ObserverMouseSpotTmp.build/ObserverMouseSpotTmp-generated-files.hmap -I/Users/kikugawamariko/XCodeProjects/ObserverMouseSpot/build/ObserverMouseSpotTmp.build/Debug/ObserverMouseSpotTmp.build/ObserverMouseSpotTmp-own-target-headers.hmap -I/Users/kikugawamariko/XCodeProjects/ObserverMouseSpot/build/ObserverMouseSpotTmp.build/Debug/ObserverMouseSpotTmp.build/ObserverMouseSpotTmp-all-target-headers.hmap -iquote /Users/kikugawamariko/XCodeProjects/ObserverMouseSpot/build/ObserverMouseSpotTmp.build/Debug/ObserverMouseSpotTmp.build/ObserverMouseSpotTmp-project-headers.hmap -F/Users/kikugawamariko/XCodeProjects/ObserverMouseSpot/build/Debug -I/Users/kikugawamariko/XCodeProjects/ObserverMouseSpot/build/Debug/include -I/Users/kikugawamariko/XCodeProjects/ObserverMouseSpot/build/ObserverMouseSpotTmp.build/Debug/ObserverMouseSpotTmp.build/DerivedSources/x86_64 -I/Users/kikugawamariko/XCodeProjects/ObserverMouseSpot/build/ObserverMouseSpotTmp.build/Debug/ObserverMouseSpotTmp.build/DerivedSources -c /Users/kikugawamariko/XCodeProjects/ObserverMouseSpot/ObserverMouseSpotTmp_Prefix.pch -o /var/folders/4P/4Plrz3LXHW032A33CCBvCE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ObserverMouseSpotTmp_Prefix-esgngeoqghkmfzazxwjhopyqcueq/ObserverMouseSpotTmp_Prefix.pch.gch0#
+
+CTouch /Users/kikugawamariko/XCodeProjects/ObserverMouseSpot/build/Debug/ObserverMouseSpotTmp.app
+s327850439.918014
+e327850439.920541
+r1
+xTouch
+x/Users/kikugawamariko/XCodeProjects/ObserverMouseSpot/build/Debug/ObserverMouseSpotTmp.app
+lSLF07#2@96"Touch /Users/kikugawamariko/XCodeProjects/ObserverMouseSpot/build/Debug/ObserverMouseSpotTmp.app327850439#327850439#0(0"0(0#0#0"2513076880#174"    cd /Users/kikugawamariko/XCodeProjects/ObserverMouseSpot    /usr/bin/touch -c /Users/kikugawamariko/XCodeProjects/ObserverMouseSpot/build/Debug/ObserverMouseSpotTmp.app0#
+
+CTouch /Users/kikugawamariko/XCodeProjects/ObserverMouseSpotTmp/build/Debug/ObserverMouseSpotTmp.app
+s327850330.571408
+e327850330.575318
+r1
+xTouch
+x/Users/kikugawamariko/XCodeProjects/ObserverMouseSpotTmp/build/Debug/ObserverMouseSpotTmp.app
+lSLF07#2@99"Touch /Users/kikugawamariko/XCodeProjects/ObserverMouseSpotTmp/build/Debug/ObserverMouseSpotTmp.app327850330#327850330#0(0"0(0#0#0"2513076880#180"    cd /Users/kikugawamariko/XCodeProjects/ObserverMouseSpotTmp    /usr/bin/touch -c /Users/kikugawamariko/XCodeProjects/ObserverMouseSpotTmp/build/Debug/ObserverMouseSpotTmp.app0#
+
